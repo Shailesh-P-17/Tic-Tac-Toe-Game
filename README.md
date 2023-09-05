@@ -16,8 +16,11 @@ Tkinter library (which is usually included with Python)
  3. Then navigate to the cloned repository.
 # How to Play
  1.The game is played on a 3x3 grid.
+ 
  2.The players take turns placing their symbol (either "X" or "O") in an empty cell.
+ 
  3.The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+ 
  4.If all cells are filled, and no one has won, the game is tied.
 # Code Structure
 The code is organized into a single class, TicTacToe, which contains the following methods:
